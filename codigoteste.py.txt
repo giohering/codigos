@@ -1,0 +1,4 @@
+#teste
+
+a = input()
+print "a"
